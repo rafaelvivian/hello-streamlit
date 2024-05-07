@@ -1,2 +1,2 @@
 # hello-streamlit
-Visualizador de imagens app
+Visualizador de arquivos app
